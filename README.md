@@ -36,7 +36,7 @@ The comparison of total weekly fares by city type over time corroborates the tot
 
  <details>
     <summary>Total Weekly Driver Count by City Type</summary>
-    <img src=""> 
+    <img src="analysis/PyBer_driver_summary.png"> 
   </details>
 
 The above metric was additionally determined: total active drivers per city type during the same time period as Total Weekly Fare analysis. Indeed, total driver counts also experienced the rapid decline in early May 2019, with urban cities suffering from a much steeper loss in drivers than the other city types. 
