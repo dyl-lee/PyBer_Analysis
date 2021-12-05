@@ -45,6 +45,6 @@ These declines coincided with several events including IPOs of competing ridesha
 
 Based on these analyses, there are a few points to consider moving forward.
 * The ridesharing model relies on drivers to remain contracted, avoid practices that could potentially reduce the pool of available drivers. Ideally, generate incentives to ensure driver satisfaction.
-* Generate more incentive for customers to use our services in urban cities. A ride:driver ratio of 0.6 in urban cities indicates drivers are not having as many opportunities to complete rides.
+* Generate more incentive for customers to use PyBer services in urban cities. A ride:driver ratio of 0.6 in urban cities indicates drivers are not having as many opportunities to complete rides.
 * Generate more incentive for drivers to complete rides in rural cities. In contrast to urban cities, a ride:driver ratio of 1.60 indicates rural cities are underserviced. 
  
