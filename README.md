@@ -24,8 +24,8 @@ Software:
 Some interesting observations from the summary DataFrame are highlighted below. 
 * Urban cities generated the highest total fares among the other city types with suburban and rural cities trailing behind in that order. 
 * Total number of drivers for each city type are higher in denser city types. Urban cities have the highest number of total drivers with 2,405 contracted drivers with suburban and rural cities seeing 480 and 78 drivers, respectively. 
-* There is an increase in the total number of rides, from rural to suburban to urban cities, however the increase is not proportional to the total drivers per city type. For example, in rural cities, there were 78 total drivers and 125 total rides, yielding an average of 1.60 rides per driver, whereas urban cities saw 0.68 and 1.28 rides for suburban cities. 
-* As the supply of available drivers decreased in sparser city types, average fares increased, affecting both the average fare per ride and average fare per driver metrics.  
+* There is an increase in the total number of rides, from rural to suburban to urban cities, however the increase is not proportional to the total drivers per city type. For example, in rural cities, there were 78 total drivers and 125 total rides, yielding an average of 1.60 rides per driver, whereas urban and rural cities saw 0.68 and 1.28 rides per driver, respectively. 
+* As the supply of available drivers decreased in sparser city types, average fares increased as expected, thus affecting both the average fare per ride and average fare per driver metrics. 
 
  <details>
     <summary>Total Weekly Fare by City Type</summary>
